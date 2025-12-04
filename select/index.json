@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "好きだよ。〜100回の後悔〜",
+  "base_artist": "Sonar Pocket",
+  "createdAt": "2025-12-04T15:32:27.294452Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "好きだよ。〜100回の後悔〜 - アコースティック ver.",
+      "artist": "Sonar Pocket",
+      "has_synced": false,
+      "path": "select/01_好きだよ。〜100回の後悔〜_-_アコースティック_ver._Sonar_Pocket.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好きだよ。～100回の後悔～ - English Ver．",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/02_好きだよ。~100回の後悔~_-_English_Ver._Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "好きだよ。〜100回の後悔〜",
+      "artist": "Sonar Pocket",
+      "has_synced": true,
+      "path": "select/03_好きだよ。〜100回の後悔〜_Sonar_Pocket.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "好きだよ。~100回の後悔~ (English Ver.)",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/04_好きだよ。~100回の後悔~_(English_Ver.)_Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "好きだよ。~100回の後悔~",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/05_好きだよ。~100回の後悔~_Che'Nelle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きだよ。～100回の後悔～",
+      "artist": "ソナーポケット",
+      "has_synced": false,
+      "path": "select/pl_01_好きだよ。~100回の後悔~_ソナーポケット.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "好きだよ。〜100回の後悔〜",
+      "artist": "ソナーポケット",
+      "has_synced": false,
+      "path": "select/pl_02_好きだよ。〜100回の後悔〜_ソナーポケット.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "好きだよ。～100回の後悔～",
+      "artist": "ソナーポケット",
+      "has_synced": false,
+      "path": "select/pl_03_好きだよ。~100回の後悔~_ソナーポケット.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "好きだよ。~100回の後悔~",
+      "artist": "ソナーポケット",
+      "has_synced": false,
+      "path": "select/pl_04_好きだよ。~100回の後悔~_ソナーポケット.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "好きだよ。~100回の後悔~",
+      "artist": "ソナーポケット",
+      "has_synced": false,
+      "path": "select/pl_05_好きだよ。~100回の後悔~_ソナーポケット.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "好きだよ。～100回の後悔～",
+      "artist": "ソナーポケット",
+      "has_synced": false,
+      "path": "select/pl_06_好きだよ。~100回の後悔~_ソナーポケット.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "好きだよ。～100回の後悔～",
+      "artist": "ソナーポケット",
+      "has_synced": false,
+      "path": "select/pl_07_好きだよ。~100回の後悔~_ソナーポケット.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "好きだよ。~100回の後悔~",
+      "artist": "ソナーポケット",
+      "has_synced": false,
+      "path": "select/pl_08_好きだよ。~100回の後悔~_ソナーポケット.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "好きだよ。～100回の後悔～",
+      "artist": "ソナーポケット",
+      "has_synced": false,
+      "path": "select/pl_09_好きだよ。~100回の後悔~_ソナーポケット.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "好きだよ。～100回の後悔～",
+      "artist": "ソナーポケット",
+      "has_synced": false,
+      "path": "select/pl_10_好きだよ。~100回の後悔~_ソナーポケット.txt"
+    }
+  ]
+}
